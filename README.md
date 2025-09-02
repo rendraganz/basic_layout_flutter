@@ -9,19 +9,26 @@ Code pada praktikum 1, membuat layout di flutter
 # Praktikum 2: Implementasi button row
 
 Code pada praktikum 2, mengimplementasikan button row di flutter
+
 ![screenshot_layout](images/prak2_buttonSection.png)
 
 # Praktikum 3: Implementasi text section
 
 Code pada praktikum 3, mengimplementasikan  text section
+
 ![screenshot_layout](images/prak3_text_section.png)
 
 # Praktikum 4: Implementasi image section
 
 Code pada praktikum 4, mengimplementasikan image section
-![screenshot_layout](images/prak4_folder_images.png)
+
+Langkah 1: Siapkan aset gambar
 ![screenshot_layout](images/prak4_pubspec.png)
+
+Langkah 2: Tambahkan gambar ke body
 ![screenshot_layout](images/prak4_body.png)
+
+Langkah 3: Terakhir, ubah menjadi ListView
 ![screenshot_layout](images/prak4_list_view.png)
 
 # Hasil Akhir Praktikum Basic Layout Flutter
@@ -33,5 +40,5 @@ Code pada praktikum 4, mengimplementasikan image section
 Screenshot hasil akhir menggunakan android studio
 ![screenshot_layout](images/akhir_04.png)
 
-Terimakasih
+Terimakasih 
 
